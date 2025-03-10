@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hanna Adenholm
+
+## UX Designer
+
+👋 Hi there! I'm Hanna Adenholm, a passionate UX Designer dedicated to creating intuitive and engaging user experiences.
+
+### About Me
+
+- 🎨 **Design Enthusiast**: I love crafting beautiful and functional designs.
+- 💡 **Problem Solver**: I enjoy tackling complex problems and finding user-centric solutions.
+- 📚 **Lifelong Learner**: Always eager to learn new skills and stay updated with the latest design trends.
+
+### Skills
+
+- **User Research**
+- **Wireframing & Prototyping**
+- **Usability Testing**
+- **Interaction Design**
+- **Visual Design**
+- **Figma**
 
 <!--
-**Adenholm/Adenholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
 
-Here are some ideas to get you started:
+- **Master thesis**
+- **Project B**: Conducted user research and usability testing for a mobile app, leading to a 15% improvement in user satisfaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Contact
+
+- 💼 LinkedIn: [linkedin.com/in/adenholm](https://linkedin.com/in/adenholm)
+- 🌐 Portfolio: [adenholm.github.io/portfolio-react/](https://adenholm.github.io/portfolio-react/)
+
+Let's create amazing user experiences together!
